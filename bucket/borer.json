@@ -1,13 +1,13 @@
 {
-  "version": "0.2.8",
+  "version": "0.2.9",
   "description": "Reverse-engineering engine for AI agents: MCP server and CLI",
   "homepage": "https://github.com/imjustprism/borer",
   "license": "AGPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/imjustprism/borer/releases/download/v0.2.8/borer-v0.2.8-x86_64-pc-windows-msvc.zip",
-      "hash": "fde94dbff74587ed260578b7d0e0b2e23329a03f44112c4e3fb210c7fc610988",
-      "extract_dir": "borer-v0.2.8-x86_64-pc-windows-msvc"
+      "url": "https://github.com/imjustprism/borer/releases/download/v0.2.9/borer-v0.2.9-x86_64-pc-windows-msvc.zip",
+      "hash": "9873017ca600f1e837320761b0b64167693f7bb0bcbaf2e5b9937c7854c36e88",
+      "extract_dir": "borer-v0.2.9-x86_64-pc-windows-msvc"
     }
   },
   "bin": "borer.exe",
