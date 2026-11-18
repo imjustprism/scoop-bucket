@@ -1,13 +1,13 @@
 {
-  "version": "0.2.12",
-  "description": "Reverse-engineering engine for AI agents: MCP server and CLI",
+  "version": "0.3.0",
+  "description": "Blazing fast, Rust-based reverse engineering tool built for humans and AI: one pure Rust engine behind a desktop app, a CLI and an MCP server.",
   "homepage": "https://github.com/imjustprism/borer",
   "license": "AGPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/imjustprism/borer/releases/download/v0.2.12/borer-v0.2.12-x86_64-pc-windows-msvc.zip",
-      "hash": "9f7efc4ad3b26c789112f1766fd31a964aa8c77ee9b4ba3b7cf260be440add8f",
-      "extract_dir": "borer-v0.2.12-x86_64-pc-windows-msvc"
+      "url": "https://github.com/imjustprism/borer/releases/download/v0.3.0/borer-v0.3.0-x86_64-pc-windows-msvc.zip",
+      "hash": "78ed5d068d3eabce2c34bbb04d88b80479fb31ad41b19fd4d8121be410de694d",
+      "extract_dir": "borer-v0.3.0-x86_64-pc-windows-msvc"
     }
   },
   "bin": "borer.exe",
